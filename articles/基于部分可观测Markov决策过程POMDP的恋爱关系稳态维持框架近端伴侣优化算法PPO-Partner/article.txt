@@ -1,0 +1,10 @@
+Title: 基于部分可观测Markov决策过程（POMDP）的恋爱关系稳态维持框架：近端伴侣优化算法（PPO-Partner）
+Author: K.-J. Du                              — Department of Chemistry, Ciau-Thon University
+Tag: Interdisciplinary Chaos
+Date: 📅 28 Feb 2026
+Views: 👁 489
+Downloads: ⬇ 394
+Comments Path: /article/727
+
+Abstract:
+恋爱关系维持任务因其高维状态空间、极端非平稳动态及高度稀疏奖励，被公认为控制理论界的“阿喀琉斯之踵”。本文将恋爱互动建模为部分可观测Markov决策过程（POMDP），并提出一种新型近端伴侣优化算法（PPO-Partner）。针对恋爱博弈中特有的“翻旧账”与“口是心非”现象，本算法引入了旧账缓冲池机制与自尊正则化项，有效规避了智能体在演化过程中向“舔狗策略坍缩”退化。实验结果表明，PPO-Partner在模拟环境Gymnasium-Ro…

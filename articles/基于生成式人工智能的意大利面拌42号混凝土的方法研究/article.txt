@@ -1,0 +1,10 @@
+Title: 基于生成式人工智能的意大利面拌42号混凝土的方法研究
+Author: Zzz ZL                              — “南洋”理工985大学，大湾区工业研究中心
+Tag: interdisciplinary_chaos
+Date: 📅 22 Feb 2026
+Views: 👁 393
+Downloads: ⬇ 213
+Comments Path: /article/103
+
+Abstract:
+本文旨在探讨一种新型异质复合材料——意大利面增强混凝土（Pasta-Reinforced Concrete, PRC）的性能。通过将传统 42.5 级硅酸盐水泥（俗称42号混凝土）与长链小麦淀粉聚合物（意大利面）进行微观复合，分析其在极端环境下的抗拉强度与韧性表现。研究发现，意大利面的几何形态与表面粗糙度对混凝土的裂缝扩展具有显著的阻裂作用。

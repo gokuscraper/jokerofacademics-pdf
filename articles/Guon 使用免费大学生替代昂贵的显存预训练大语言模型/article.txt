@@ -1,0 +1,11 @@
+Title: Guon ：使用免费大学生替代昂贵的显存预训练大语言模型
+Author: 猪教授                              — 野鸡大学
+Tag: interdisciplinary_chaos
+Date: 📅 N/A
+Views: 👁 225
+Downloads: ⬇ 157
+Comments Path: /article/97
+
+Abstract:
+大语言模型（LLM）的参数规模扩张导致训练过程面临严峻的“显存墙”挑战。现有优化器（如 AdamW 和 Muon）依赖与参数同维的常驻状态（动量、方差或矩阵缓冲）来维持收敛动力学，这使得训练显存需求远超推理显存，极大地推高了硬件门槛。为此，我们提出 Guon（GradientOrthogonalized by Newton–Schulz），首个面向 LLM 训练的无状态、流式二阶优化范式。在理
+论层面，我们提出“时空对偶性（Space…

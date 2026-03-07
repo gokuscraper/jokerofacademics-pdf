@@ -1,0 +1,10 @@
+Title: 麦克斯赢输方程组：赢有源，输无源以及赢输场动力学转化
+Author: Yao Xie                              — John F. Kennedy International Airport
+Tag: interdisciplinary_chaos
+Date: 📅 24 Feb 2026
+Views: 👁 314
+Downloads: ⬇ 168
+Comments Path: /article/553
+
+Abstract:
+本文在回顾经典麻力学概念的基础上，提出了麦克斯赢输方程组（Maxwin’s equations），旨在从动力学角度解释赢场与输场之间的转化机制及其物理意义。通过定义赢场和输场对厚米子与串子的作用，引入赢导率和输导率等参数，构建了输赢感应定律、赢场高斯定理等核心方程，揭示了赢场有源、输场无源的对称性破缺现象。结合实际案例（如巢都世界机仆工作时长数据的赢输转化）验证了方程组的解释力。此外，本文还探讨了赢输波的存在及其与狭义相对赢理论的潜在联…

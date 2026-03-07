@@ -1,0 +1,10 @@
+Title: 情感市场的理性决策：基于经济学建模与依恋模式的分析框架
+Author: 合鸟子                              — 上海师范大学
+Tag: Interdisciplinary Chaos
+Date: 📅 05 Mar 2026
+Views: 👁 383
+Downloads: ⬇ 368
+Comments Path: /article/816
+
+Abstract:
+【目的】： 基于社会交换理论（Homans, Blau）的核心思想：情感关系本质是资源交换与效用最大化过程，本研究构建形式化决策框架，运用经济学工具（预算约束、生产函数、均衡）量化该过程，并整合成人依恋理论（Cindy Hazan,Phillip Shaver）刻画“情感市场”中不同类型参与者（安全型、痴迷型、疏离型、恐惧型）的行为特征。【方法】： 定义关键变量：情感总预算（Call）、投入（c）、边际递减情感供给函数（S=f(c)）、…

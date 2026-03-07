@@ -1,0 +1,10 @@
+Title: 基于跨游戏生态的“妈量守恒定律”研究： 论《农》中妈妈数量消解与《瓦》中妈妈数量重构的动态平衡
+Author: L. Stream                              — 家里蹲大学
+Tag: Humor & Comedy Studies
+Date: 📅 28 Feb 2026
+Views: 👁 1,272
+Downloads: ⬇ 848
+Comments Path: /article/665
+
+Abstract:
+在当代电子竞技的语言交互生态中，虚拟亲属关系的即时构建与毁灭呈现出显著的二元对立特征。本文聚焦于两款主流竞技游戏——多人在线战术竞技游戏（MOBA）《农》与战术射击游戏（FPS）《瓦》，探讨了“妈妈”这一概念在虚拟语义空间中的流动性与守恒性。研究首先定义了两个核心变量：由《农》中高强度对抗与甩锅文化引发的“亲人生物学丧失”（Maternal Biological Negation, MBN，俗称“$M_{loss}$”），以及由《瓦》中…

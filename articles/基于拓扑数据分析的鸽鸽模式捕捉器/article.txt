@@ -1,0 +1,10 @@
+Title: 基于拓扑数据分析的鸽鸽模式捕捉器
+Author: Prof. Ctrl+Z                              — MIT (Massachusetts Institute of Trash)
+Tag: interdisciplinary_chaos
+Date: 📅 25 Feb 2026
+Views: 👁 264
+Downloads: ⬇ 110
+Comments Path: /article/585
+
+Abstract:
+当今互联网文化生态日益复杂，以“鸽鸽”（特指网络名人蔡徐坤及其衍生的表情包文化现象）为代表的亚文化符号呈现出多维度、异构且高度动态演化的特征。传统的图像识别与情感分析方法在处理此类非结构化、高噪声的文化数据时面临严峻挑战。为解决这一难题，本文创新性地引入源于代数拓扑学的拓扑数据分析（Topological Data Analysis, TDA）方法，构建了一个普适性的“鸽鸽模式”识别框架。本框架通过将“鸽鸽”表情包序列转化为点云数据，并…

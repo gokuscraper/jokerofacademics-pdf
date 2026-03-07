@@ -1,0 +1,10 @@
+Title: A Multimodal Humor Framework for Evaluating Holiday Supervisor Text Harmfulness: Joint Modeling of Greeting Omission, Return-to-Campus Prompting, and Red-Packet Absence
+Author: Unlucky PhD Student                              — Southeast Slacking University
+Tag: academic_culture_meta
+Date: 📅 25 Feb 2026
+Views: 👁 219
+Downloads: ⬇ 85
+Comments Path: /article/598
+
+Abstract:
+Holiday periods are important windows for emotional recovery and family bonding among graduate students, yet in real supervisor–student communication the supervisor’s opening message often acts as a high-priority stimulu…

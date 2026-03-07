@@ -1,0 +1,10 @@
+Title: 论压缩学术冗余的引力坍缩：arXiv.zip能否形成黑洞？
+Author: Prof. Ctrl+Z                              — MIT (Massachusetts Institute of Trash)
+Tag: interdisciplinary_chaos
+Date: 📅 24 Feb 2026
+Views: 👁 321
+Downloads: ⬇ 156
+Comments Path: /article/554
+
+Abstract:
+摘  要：本文首次提出并形式化了“学术质量–引力等效原理”（Academic Mass–Gravity Equivalence Principle, AMGEP），主张：未被理解或不可复现的学术产出具有等效引力质量。基于截至2025年12月31日的arXiv全量数据集（共2,847,391篇论文），我们构建了一个多尺度学术质量模型，并计算其经ZIP压缩后的有效学术质量（Effective Scholarly Mass, ESM）。结果显…

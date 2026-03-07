@@ -1,0 +1,10 @@
+Title: 基于卷积神经网络探讨千年杀对菊花的动力学分析——以火影忍者为例
+Author: Chrysanthemum                              — 木叶隐村菊花大学
+Tag: Meta-Academic Research
+Date: 📅 02 Mar 2026
+Views: 👁 795
+Downloads: ⬇ 413
+Comments Path: /article/750
+
+Abstract:
+本研究以《火影忍者》中旗木卡卡西与漩涡鸣人多次实施的"千年杀"（Sennen Goroshi）忍术为研究对象，首次运用卷积神经网络（CNN）技术对受击者菊部区域的形变动力学进行量化分析。通过构建"菊部压力-形变响应"（Anal-Pressure Deformation Response, APDR）数学模型，本研究揭示了该体术在二维平面与三维空间中的传播机制，并提出了"瞬痛指数"（Instant Pain Index, IPI）作为伤害…

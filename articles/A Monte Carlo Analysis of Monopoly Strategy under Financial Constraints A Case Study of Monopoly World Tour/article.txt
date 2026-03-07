@@ -1,0 +1,10 @@
+Title: A Monte Carlo Analysis of Monopoly Strategy under Financial Constraints: A Case Study of Monopoly World Tour
+Author: Puppy                              — Carleton University
+Tag: interdisciplinary_chaos
+Date: 📅 25 Feb 2026
+Views: 👁 299
+Downloads: ⬇ 69
+Comments Path: /article/572
+
+Abstract:
+Monopoly World Tour, often dismissed as a recreational board game, constitutes a surprisingly rigorous microeconomic system governed by deterministic property rules, stochastic mobility, liquidity constraints, and irreve…

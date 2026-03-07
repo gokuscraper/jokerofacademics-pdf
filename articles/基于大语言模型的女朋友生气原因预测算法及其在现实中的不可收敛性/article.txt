@@ -1,0 +1,10 @@
+Title: 基于大语言模型的“女朋友生气原因”预测算法及其在现实中的不可收敛性
+Author: Dr. I. M. Sorry                              — Institute of Survival Desire, Key Lab of Emotional Crisis
+Tag: Humor & Comedy Studies
+Date: 📅 05 Mar 2026
+Views: 👁 794
+Downloads: ⬇ 850
+Comments Path: /article/797
+
+Abstract:
+“女朋友为什么生气”长期以来被认为是恋爱关系中的 NP-hard 问题，其复杂度远超黎曼猜想与P=NP 问题。尽管现有的情感分析模型在公开数据集上表现优异，但在面对女朋友这一“高维生物”时往往失效。本文提出了一种基于 Transformer 架构的GF-GPT（GirlFriend-Generative Pre-trained Transformer）模型，旨在通过多模态数据（聊天记录、语气助词、面部微表情、点赞历史、甚至呼吸频率）预测…

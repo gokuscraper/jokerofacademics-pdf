@@ -1,0 +1,12 @@
+Title: 学术造假的可检出性与水论文的可羞耻感
+Author: Dr.Xiaobu Lv                              — 牛肉面馆
+Tag: Academic Culture
+Date: 📅 01 Mar 2026
+Views: 👁 361
+Downloads: ⬇ 232
+Comments Path: /article/722
+
+Abstract:
+学术造假与“水论文”长期处于一种微妙的共生关系：前者追求显著性，后者追求篇幅与排版，二者共同塑造了一个既可发表又可疑的文本生态。
+本文严肃地构建了一个可控的“论文造假宇宙”，在其中系统模拟四类研究行为：正常研究（clean）、显著性操控（p-hacking）、数据编造（fabrication）以及混合机制（both）。
+每篇合成论文包含多次检验的 p 值序列与效应估计，并派生出一组“可羞耻感指标”，用于量化论文在报告层面呈现出的可疑…

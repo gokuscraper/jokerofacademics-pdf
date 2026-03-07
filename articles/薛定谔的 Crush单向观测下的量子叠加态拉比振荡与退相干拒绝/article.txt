@@ -1,0 +1,10 @@
+Title: 薛定谔的 Crush：单向观测下的量子叠加态、拉比振荡与退相干拒绝
+Author: Stan                              — Southeast University
+Tag: Interdisciplinary Chaos 跨学科的混乱
+Date: 📅 05 Mar 2026
+Views: 👁 851
+Downloads: ⬇ 805
+Comments Path: /article/785
+
+Abstract:
+在真实的暗恋语境中，Crush 往往是一个遥不可及的客体。本文基于量子力学框架，将 Crush 的态度建模为仅存在于观测者（暗恋者）内心相空间中的量子叠加态。由于缺乏实质性的双向接触，该系统本质上是一个孤立的单向系统：Crush 本人对这一量子系统的存在全然无知，波函数的演化完全由暗恋者的主观信念驱动。本文探讨了在此情形下，极微弱的单向信息（如偶发的视线交汇、社交媒体的点赞动态）如何作为微扰势场，通过含时薛定谔方程在观测者内心诱发剧烈的…

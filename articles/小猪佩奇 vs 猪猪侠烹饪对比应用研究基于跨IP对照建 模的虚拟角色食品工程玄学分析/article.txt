@@ -1,0 +1,15 @@
+Title: 小猪佩奇 vs 猪猪侠烹饪对比应用研究：基于跨IP对照建 模的虚拟角色食品工程玄学分析
+Author: Academician Wang                              — University of Shan and He
+Tag: 跨学科混乱
+Date: 📅 01 Mar 2026
+Views: 👁 419
+Downloads: ⬇ 292
+Comments Path: /article/777
+
+Abstract:
+为构建跨动画体系的虚拟角色食品工程对比模型，本文以英系动画《小猪佩奇》
+与中系动画《猪猪侠》为研究对象，提出一种“角色特征—生物属性—肉质结构—烹饪
+工艺—感官系统”的跨IP映射分析框架。在既有“基于角色特征匹配的猪种筛选及肉质
+指标实测研究”方法论基础上，进一步引入跨IP对照实验结构，构建动画系统间可比性
+建模（Inter-IP Comparative Modeling, IICM）路径，并对可比性本身进行象征性证明。
+研究…

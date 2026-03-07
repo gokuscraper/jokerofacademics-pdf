@@ -1,0 +1,10 @@
+Title: 基于弱监督语言模型的当代科研包工头“宏观指导”日常话术废话生成算法
+Author: Well Informed                              — 科研指导无序语言研究所，抽象市，114514
+Tag: interdisciplinary_chaos
+Date: 📅 22 Feb 2026
+Views: 👁 228
+Downloads: ⬇ 113
+Comments Path: /article/117
+
+Abstract:
+近年来，随着学术界“唯帽子论”的加剧，部分研究生导师（俗称“科研包工头”）已逐渐脱离科研一线。面对学生具体的实验困难，他们展现出了一种高度同质化的“宏观指导”行为模式。本文提出了一种全新的弱监督废话生成算法——宏观指导注意力网络 (Macro-Guidance Attention Network, MGAN)。该模型仅需极少量的监督信号（如学生汇报PPT的页数），即可通过引入“学术黑话马尔可夫链”，自动生成诸如“底层逻辑”、“顶层设计”…

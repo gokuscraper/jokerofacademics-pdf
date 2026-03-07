@@ -1,0 +1,10 @@
+Title: VRAM is Too Expensive So We Use Graduate Students to Train LLMs: The GUON Optimizer
+Author: Prof.Pig                              — School of Artificial Hype, Yeji University
+Tag: interdisciplinary_chaos
+Date: 📅 22 Feb 2026
+Views: 👁 211
+Downloads: ⬇ 114
+Comments Path: /article/108
+
+Abstract:
+Scaling large language models (LLMs) confronts a severe memory wall crisis, with modern optimizers easily hoarding terabytes of historical states. Facing a dried-up funding account, we propose \textbf{Guon(Graduate Unpai…

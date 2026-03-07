@@ -1,0 +1,10 @@
+Title: 基于朋友圈可见性变化的学术社交关系网络断裂机制研究
+Author: Academician Wang                              — University of Shan and He
+Tag: Humor & Comedy Studies
+Date: 📅 26 Feb 2026
+Views: 👁 847
+Downloads: ⬇ 474
+Comments Path: /article/657
+
+Abstract:
+随着数字社交平台在学术交流体系中的结构性嵌入，朋友圈逐渐演化为一种非正式学术社交基础设施。本文以“朋友圈可见性变化行为”为研究对象，构建学术社交关系网络断裂机制模型（Academic Social Fracture Model, ASFM），系统分析分组可见、仅三天可见、仅自己可见等可见性控制策略对学术社交关系稳定性的影响机理。研究从可见性状态空间、关系强度函数与结构断裂阈值模型出发，引入互动频率、时间连续性与情感密度等变量，对学术社交…

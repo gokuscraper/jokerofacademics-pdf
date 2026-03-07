@@ -1,0 +1,10 @@
+Title: 《三角洲行动》中鼠鼠玩家的风险-收益决策机制解析
+Author: Dr. Cheng                              — R&D Department,GTI
+Tag: Other
+Date: 📅 26 Feb 2026
+Views: 👁 650
+Downloads: ⬇ 468
+Comments Path: /article/625
+
+Abstract:
+《三角洲行动》（Delta Force: Hawk Ops）作为一款融合战术射击与搜打撤离机制的多人在线游戏，其“烽火地带”模式催生了独特的“鼠鼠”玩家亚文化。该群体以低成本装备入场、规避直接对抗、依赖搜刮与捡漏为核心策略，体现出明显的风险规避型决策特征。本文基于预期效用理论（Expected Utility Theory）、前景理论（Prospect Theory）以及行为经济学中的风险-收益权衡框架，对鼠鼠玩家的决策过程进行系统剖析…

@@ -1,0 +1,12 @@
+Title: Multi-Agent Simulation of Pre-Submission Academic Behaviors: A 16-Type MBTI Personality-Based Multimodal Analysis of Graduate Thesis Completion Patterns
+Author: Dr. Water Bear                              — Department of PUA, Multiverse University
+Tag: absurdist_methods
+Date: 📅 25 Feb 2026
+Views: 👁 459
+Downloads: ⬇ 125
+Comments Path: /article/253
+
+Abstract:
+This study presents a comprehensive multi-agent simulation framework to
+investigate the behavioral patterns of graduate students during the critical
+pre-submission phase of thesis completion. By integrating the Myers-B…
